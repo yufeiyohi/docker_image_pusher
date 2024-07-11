@@ -1,1 +1,2 @@
 yufeiyohi/wowebook:latest
+yufeiyohi/dify-on-wechat:latest
